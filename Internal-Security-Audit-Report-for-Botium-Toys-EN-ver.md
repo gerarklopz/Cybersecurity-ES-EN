@@ -1,5 +1,4 @@
-
-#EN ver.🇺🇸🇬🇧
+# EN ver.🇺🇸🇬🇧
 # Internal Security Audit Report for Botium Toys
 
 ## Background and Scenario
