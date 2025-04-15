@@ -11,4 +11,16 @@ ES-Repositorio enfocado en ciberseguridad, incluyendo análisis de vulnerabilida
 - 🔒 Risk Management / Gestión de Riesgos
 - 🏆 Certifications & Courses / Certificaciones y Cursos
 
+## Política de Seguridad 🛡️ 
+
+- Este repositorio tiene fines educativos y está abierto a colaboraciones responsables.
+
+- Si detectas alguna **vulnerabilidad, fallo o sugerencia** para mejorar la seguridad del contenido, por favor abre un ***Issue*** o contacta directamente al mantenedor del repositorio:
+
+- 📧 Email: gerardoarcalopez@gmail.com
+
+## Agradezco tu colaboración responsable para fortalecer este proyecto.
+
+---
+
 🚀 **Currently studying:** Google Cybersecurity Analyst (Entry-Level).
