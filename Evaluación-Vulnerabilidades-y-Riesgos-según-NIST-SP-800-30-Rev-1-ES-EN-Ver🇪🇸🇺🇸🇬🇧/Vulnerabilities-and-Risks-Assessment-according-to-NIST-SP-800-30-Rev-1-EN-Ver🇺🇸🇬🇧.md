@@ -227,5 +227,6 @@ Hybrid environments enhance flexibility, but demand:
 
 ---
 
-**Prepared by**: Gerardo Arca López*
-**Date**: April 17, 2023
+- **Prepared by**: Gerardo Arca López
+
+- **Date**: April 17, 2023
